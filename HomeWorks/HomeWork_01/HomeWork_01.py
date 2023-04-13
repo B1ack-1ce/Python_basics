@@ -47,5 +47,3 @@ def task_08():
         print('Yes')
     else: 
         print('No')
-
-task_08()
